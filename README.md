@@ -143,3 +143,5 @@ Access via official onion URLs, and *always* verify them before use to avoid phi
 Choosing the right payment method is paramount for your safety on darknet markets. Prioritize Monero, understand the risks associated with Bitcoin, and implement layered security strategies. Follow the guidelines to protect your funds and maintain anonymity. *Remember that engaging in these markets might violate local laws.*
 
 Plase contribute and add stars to this repo.
+
+Update:  14.07.2025
