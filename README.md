@@ -144,4 +144,6 @@ Choosing the right payment method is paramount for your safety on darknet market
 
 Plase contribute and add stars to this repo.
 
-Update:  14.07.2025
+
+
+Update:  18.07.2025 15:12 Updated tutorial references to current paths
